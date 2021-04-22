@@ -8,3 +8,5 @@
 
 ![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/ML%20%7C%20DL/GAN_mnist/data/results/0_epoch.png?raw=true)
 
+![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/ML%20%7C%20DL/GAN_mnist/data/results/3_epoch.png?raw=true)
+
