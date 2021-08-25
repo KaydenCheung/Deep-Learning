@@ -12,12 +12,14 @@ DKTDataSet：重写Dataset类，当给定题目和答案时，返回此次交互
 
 
 <br>
+
 **model.py**
 
 LSTM + Linear
 
 
 <br>
+
 **main.py**
 
 lossFunc：实现论文中的损失函数：$L = \sum_t\mathcal{l} (\textbf{y}_i^T \delta (q_{t+1}), a_{t+1})$
