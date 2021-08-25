@@ -22,4 +22,4 @@ LSTM + Linear
 
 lossFunc：实现论文中的损失函数：$L = \sum_t\mathcal{l} (\textbf{y}_i^T \delta (q_{t+1}), a_{t+1})$
 
-![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/DL/DKT/AUC.PNG?raw=true){:height="50%" width="50%"}
+![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/DL/DKT/AUC.PNG?raw=true)
