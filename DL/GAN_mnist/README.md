@@ -8,4 +8,4 @@
 <br/>
 训练过程中生成图片的变化：
 
-![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/ML%20%7C%20DL/GAN_mnist/data/results/0_epoch.png?raw=true)                  ![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/ML%20%7C%20DL/GAN_mnist/data/results/3_epoch.png?raw=true)                  ![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/ML%20%7C%20DL/GAN_mnist/data/results/9_epoch.png?raw=true)
+![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/DL/GAN_mnist/results/0_epoch.png?raw=true)                  ![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/DL/GAN_mnist/results/3_epoch.png?raw=true)                  ![avatar](https://github.com/KaydenCheung/Deep-Learning/blob/main/DL/GAN_mnist/results/9_epoch.png?raw=true)
